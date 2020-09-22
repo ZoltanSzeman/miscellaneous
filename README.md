@@ -1,2 +1,2 @@
 # miscellaneous
-A repository to store simple miscellaneous python projects.
+A repository to store some miscellaneous python projects.
